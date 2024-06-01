@@ -14,4 +14,4 @@ Projeto criado com as bibliotecas React JS e Material UI.
    npm start
    `
 
-   ## add uma tela de login e uma barra Drawer
+   ## adicionei uma tela de login e uma barra Drawer
